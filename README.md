@@ -12,7 +12,7 @@ Road -  Centerline, 20 meters wide, 5 meters wide into village zone
 Contour - 5-meter contour interval from NEO DEM
 Village - Hapohondong to Kangaruo
 Chainage - 150-meter interval
-Risk - Landslide, inundation, flood
+Risk - Landslide Risk zone, inundation and deterioration zone, flood zone
 Other
 
 ### Important Massage
