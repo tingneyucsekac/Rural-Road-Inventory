@@ -1,4 +1,4 @@
-# Rural Road Inventory
+# Rural Road Inventory - Smart and Climate Resilient Road Planning
 
 Interactive GIS web application designed for smart rural road planning
 
